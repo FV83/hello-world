@@ -1,11 +1,20 @@
-# hello-world
-my first repository - test
+hello-world
 
-first changes
 
-test line1
-test line2
+## secondary heading
+### tertiary heading
 
-test line1 test line2
+* buillet point1
+* buillet point2
+* buillet point3
 
-test line1      test line2
+- first item in list
+- second item in list
+- third item in list
+
+*This text will appear italicized!*
+
+**This text will appear bold!**
+
+Links:
+[Click here](http://www.r-project.org/)
